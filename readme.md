@@ -28,8 +28,8 @@ For more information Click [here](https://www.npmjs.com/package/botui)
 
 ## Contributing
 
-1. [Fork the repository](https://github.com/SudhanPlayz/sudhan-bot-ui/fork)!
-2. Clone your fork: `git clone https://github.com/your-username/sudhan-bot-ui.git`
+1. [Fork the repository](https://github.com/Team-Donut/SimpleBot-UI/fork)!
+2. Clone your fork: `git clone https://github.com/your-username/SimpleBot-UI.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Commit your changes: `git commit -am 'Add some feature'`
 5. Push to the branch: `git push origin my-new-feature`
