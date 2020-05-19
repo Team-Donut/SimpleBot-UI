@@ -38,6 +38,6 @@ For more information Click [here](https://www.npmjs.com/package/botui)
 ## Author
 
 © [SudhanPlayz](https://github.com/SudhanPlayz).  
-Authored by SudhanPlayz and maintained by DonutSquad.
+Authored by SudhanPlayz and maintained by Team-Donut.
 
 > GitHub [@SudhanPlayz](https://github.com/SudhanPlayz)
